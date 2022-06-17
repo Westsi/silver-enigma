@@ -1,9 +1,11 @@
 <div id="top"></div>
+
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GNU GPL License][license-shield]][license-url]
 
 
 
@@ -120,8 +122,6 @@ This is an example of how to list things you need to use the software and how to
 ![This is an image](demo/a.png)
 ![This is an image](demo/cool.png)
  
-![This is an image](demo/helpme.png)
- 
 ![This is an image](demo/dayum.png)
 
 
@@ -165,7 +165,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU License. See `LICENSE.txt` for more information.
+Distributed under the GNU GPL License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
