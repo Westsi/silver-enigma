@@ -1,22 +1,4 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -35,7 +17,7 @@
 <h3 align="center">Silver-Enigma</h3>
 
   <p align="center">
-    A learning software
+    A pixel based manipulation and randomisation tool.
     <br />
     <a href="https://github.com/Westsi/silver-enigma"><strong>Explore the docs »</strong></a>
     <br />
@@ -152,9 +134,9 @@ This is an example of how to list things you need to use the software and how to
 ## Roadmap
 
 - [ ] Image painting
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Other Patterns
+- [ ] GUI
+    - [ ] Multiple Image Save options
 
 See the [open issues](https://github.com/Westsi/silver-enigma/issues) for a full list of proposed features (and known issues).
 
